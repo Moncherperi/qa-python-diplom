@@ -1,0 +1,4 @@
+pytest
+selenium
+pymysql
+allure-pytest
