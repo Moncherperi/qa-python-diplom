@@ -218,3 +218,9 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+
+# Allure
+allure-results/
+
+node_modules/
+.idea/
